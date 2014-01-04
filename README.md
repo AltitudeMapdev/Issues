@@ -1,7 +1,7 @@
 Issues
 ======
 
-Hi, and welcome to the Issue Repo. This is where you report issues that may be occurring on the server.
+Hi, and welcome to the Issue Repo. This is where you report issues that may be occurring on the server or any other Altitude services. 
 
 
 ======
