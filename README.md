@@ -3,7 +3,6 @@ Issues
 
 Welcome to the Issue Repo. This is where you report issues that may be occurring on the server or any other Altitude services. 
 
-
 ======
 ###How to report issues
 
@@ -21,6 +20,7 @@ Welcome to the Issue Repo. This is where you report issues that may be occurring
 2. Reporting fake issues
 3. Spamming the issue repo
 4. Harassing or being rude to other users
+
 =====
 
 You are free to make suggestions. 
